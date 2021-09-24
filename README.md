@@ -1,7 +1,7 @@
 # Student-Teacher
 #Final project for the Building AI course
 ## Summary
-Not all students are that comfortable in asking their queries to their teacher, mainly in primary classes.So this is a project idea based on improving interaction between students and teacher using AI.
+Not all students are that comfortable with asking their queries to their teacher, mainly in primary classes.So this is a project idea based on improving interaction between students and teacher using AI.
 ## Background
 This idea will enable teachers to know wether the students are getting his/her point or not , and also wether they are focusing in the class or not. Often many students hesitate in telling their teacher that they didn't get the explanation of something ,this might result in some decrease in their interest in the topic.   And,eventually they might not get the topic properly.So,this project idea will help such students.
 
